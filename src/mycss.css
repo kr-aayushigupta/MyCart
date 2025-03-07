@@ -1,0 +1,33 @@
+.div1 {
+    background-color: #8458B3;
+    color:white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+}
+.div2 {
+    background-color: #d0bdf4;
+    color: rgb(0, 0, 0);
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+}
+.mydiv{
+    background-color: #d0bdf4;
+    font-family: Sans-Serif;
+    text-align: center;
+    display:flex;
+    padding: 40px 300px;
+    justify-items: space-evenly;
+    align-items: center;
+    color:black;
+    
+}
+button{
+    padding: 7px;
+    font-size: medium;
+    
+    
+}
+
+
